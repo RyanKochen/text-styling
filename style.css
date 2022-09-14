@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-style: normal;
+    text-align: left;
+    text-decoration: none;
+  }
+  h2 {
+    color: white;
+    background-color: rebeccapurple;
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+  }
+  h3 {
+    color:rgb(15, 1, 27);
+    background-color: rgb(132, 165, 255);
+    text-decoration: underline;
+    font-style: normal;
+    text-align: right;
+  }
+
+
+
+
+
